@@ -47,7 +47,7 @@
     "headbody": "",
     "botbody": "",
     "google-analytics": "",
-    "siteUrl": "http://blog.thatkidjr.com",
+    "siteUrl": "http://shop.thatkidjr.com",
     "snow": "",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
