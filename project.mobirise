@@ -1313,7 +1313,7 @@
           "_params": {
             "blockTitle": "<H1>My Personal Dildo Of Choice!</H1>",
             "HTMLCode": "<html> \n<body> \n<center>\n<video width=\"720\" controls>\n  <source src=\"https://vtt.tumblr.com/tumblr_p1ds3yuELX1w23q28.mp4\" type=\"video/mp4\">\n</video>\n</center>\n\n</body> \n</html>\n",
-            "extEdit": false,
+            "extEdit": true,
             "paddingTop": 20,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
