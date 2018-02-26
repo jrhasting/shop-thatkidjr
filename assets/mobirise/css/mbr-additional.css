@@ -2395,9 +2395,6 @@ body {
 .cid-qKEt6CAsJX .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qKEytfpewK {
-  background-image: url("../../../assets/images/coming-soon-791x359.png");
-}
 .cid-qKIdCuveU5 {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -2459,28 +2456,6 @@ body {
   .cid-qKIdCuveU5 .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
-  }
-}
-.cid-qKIeaHMrqo {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-  background: linear-gradient(45deg, #ffffff, #48899f);
-}
-.cid-qKIeaHMrqo .image-block {
-  margin: auto;
-}
-.cid-qKIeaHMrqo figcaption {
-  position: relative;
-}
-.cid-qKIeaHMrqo figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qKIeaHMrqo .image-block {
-    width: 100% !important;
   }
 }
 .cid-qKIbqVuFvX .navbar {
