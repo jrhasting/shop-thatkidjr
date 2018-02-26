@@ -1128,31 +1128,6 @@
           "_params": {}
         },
         {
-          "_params": {
-            "blockTitle": "",
-            "HTMLCode": "<center><script type=\"text/javascript\">\nvar ad_idzone = \"2851716\",\n\t ad_width = \"728\",\n\t ad_height = \"90\";\n</script>\n<script type=\"text/javascript\" src=\"https://ads.exosrv.com/ads.js\"></script>\n<noscript><a href=\"https://main.exosrv.com/img-click.php?idzone=2851716\" target=\"_blank\"><img src=\"https://syndication.exosrv.com/ads-iframe-display.php?idzone=2851716&output=img&type=728x90\" width=\"728\" height=\"90\"></a></noscript></center>",
-            "extEdit": true,
-            "paddingTop": 20,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "blockTitle": "",
-          "HTMLCode": "<center><script type=\"text/javascript\">\nvar ad_idzone = \"2851716\",\n\t ad_width = \"728\",\n\t ad_height = \"90\";\n</script>\n<script type=\"text/javascript\" src=\"https://ads.exosrv.com/ads.js\"></script>\n<noscript><a href=\"https://main.exosrv.com/img-click.php?idzone=2851716\" target=\"_blank\"><img src=\"https://syndication.exosrv.com/ads-iframe-display.php?idzone=2851716&output=img&type=728x90\" width=\"728\" height=\"90\"></a></noscript></center>",
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-3g"
-        },
-        {
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -1350,7 +1325,7 @@
             "overlayOpacity": 0.5
           },
           "blockTitle": "",
-          "HTMLCode": "<center><center><center>\n<table style=\"border-collapse: collapse; width: 193.628%; height: 237px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 153px;\">\n<td style=\"width: 100%; height: 600px;\"><center></center>\n<h1 style=\"text-align: center;\">My Personal Dildo Of Choice!</h1>\n<center><video controls=\"controls\" width=\"853\" height=\"505\" data-mce-fragment=\"1\">\n  <source src=\"https://vtt.tumblr.com/tumblr_p1ds3yuELX1w23q28.mp4\" type=\"video/mp4\" ></source></video></center></td>\n</tr>\n</tbody>\n</table>\n</center></center></center>",
+          "HTMLCode": "<center><center><center><table style=\"border-collapse: collapse; width: 193.628%; height: 237px;\" border=\"1\" data-mce-style=\"border-collapse: collapse; width: 193.628%; height: 237px;\" data-mce-selected=\"1\"><tbody><tr style=\"height: 153px;\" data-mce-style=\"height: 153px;\"><td style=\"width: 100%; height: 600px;\" data-mce-style=\"width: 100%; height: 600px;\"><center></center><h1 style=\"text-align: center;\" data-mce-style=\"text-align: center;\">My Personal Dildo Of Choice!</h1><p><br></p><p><br></p><br><noscript>&lt;a href=\"https://main.exosrv.com/img-click.php?idzone=2851716\" target=\"_blank\"&gt;&lt;img src=\"https://syndication.exosrv.com/ads-iframe-display.php?idzone=2851716&amp;output=img&amp;type=728x90\" width=\"728\" height=\"90\"&gt;&lt;/a&gt;</noscript><p><br></p><center><img data-mce-p-data-mce-fragment=\"1\" data-mce-p-controls=\"controls\" data-mce-html=\"%0A%20%20%3Csource%20src%3D%22https%3A//vtt.tumblr.com/tumblr_p1ds3yuELX1w23q28.mp4%22%20type%3D%22video/mp4%22%20/%3E\" width=\"853\" height=\"505\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-mce-object=\"video\" class=\"mce-object mce-object-video\"></center></td></tr></tbody></table></center></center></center>",
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "alias": "htmlblock",
           "_tags": [
