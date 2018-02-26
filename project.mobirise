@@ -3,7 +3,7 @@
     "name": "Shop ThatKidJR",
     "currentPage": "realistic-9inch-premium-dildo.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 124,
+    "uniqCompNum": 125,
     "versionPublish": "4.6.4",
     "theme": {
       "name": "mobirise4",
@@ -1126,6 +1126,31 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "blockTitle": "",
+            "HTMLCode": "<center><script type=\"text/javascript\">\nvar ad_idzone = \"2851716\",\n\t ad_width = \"728\",\n\t ad_height = \"90\";\n</script>\n<script type=\"text/javascript\" src=\"https://ads.exosrv.com/ads.js\"></script>\n<noscript><a href=\"https://main.exosrv.com/img-click.php?idzone=2851716\" target=\"_blank\"><img src=\"https://syndication.exosrv.com/ads-iframe-display.php?idzone=2851716&output=img&type=728x90\" width=\"728\" height=\"90\"></a></noscript></center>",
+            "extEdit": true,
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "blockTitle": "",
+          "HTMLCode": "<center><script type=\"text/javascript\">\nvar ad_idzone = \"2851716\",\n\t ad_width = \"728\",\n\t ad_height = \"90\";\n</script>\n<script type=\"text/javascript\" src=\"https://ads.exosrv.com/ads.js\"></script>\n<noscript><a href=\"https://main.exosrv.com/img-click.php?idzone=2851716\" target=\"_blank\"><img src=\"https://syndication.exosrv.com/ads-iframe-display.php?idzone=2851716&output=img&type=728x90\" width=\"728\" height=\"90\"></a></noscript></center>",
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-3g"
         },
         {
           "_styles": {
